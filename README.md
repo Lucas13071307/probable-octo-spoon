@@ -1,4 +1,4 @@
-# probable-octo-spoon
+# Game1
 import pygame
 import sys
 
